@@ -1,2 +1,2 @@
 # VisuaLG
-Códigos que fiz enquanto estudei com o curso do Gustavo Guanabara! :)
+Códigos que fiz enquanto dava os meus primeiros passos no mundo da programação com o curso de visuaLG do Gustavo Guanabara! :)
